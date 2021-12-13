@@ -24,7 +24,7 @@ const Home = () => {
         <Header></Header>
         <div className={styles['container01']}>
           <div className={styles['container02']}>
-            <h1 className={styles['text']}>Your story starts with us.</h1>
+            <h1 className={styles['text']}>Karl.</h1>
             <span className={styles['text01']}>
               <span></span>
               <span>
